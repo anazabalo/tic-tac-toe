@@ -1,1 +1,3 @@
-console.log('hey there!');
+const onCellClick = (event) => {
+  return console.log(event);
+};

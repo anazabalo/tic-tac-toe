@@ -4,3 +4,8 @@ body {
 .table {
   background-color: blue;
 }
+
+#cellButton {
+  cursor: pointer;
+  font-size: 16px;
+}
